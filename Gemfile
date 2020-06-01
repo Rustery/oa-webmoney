@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in oa-webmoney.gemspec
+gem 'webmoney', github: 'pahan40/webmoney'
 gemspec
