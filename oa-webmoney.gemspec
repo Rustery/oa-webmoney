@@ -15,6 +15,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = OmniAuth::Webmoney::VERSION
 
-  gem.add_runtime_dependency 'webmoney', ['~> 0.0.12']
   gem.add_development_dependency 'bundler', ["~> 1.1.rc.2"]
 end
